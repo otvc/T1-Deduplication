@@ -1,0 +1,7 @@
+pandas
+hdbscan
+datasets=2.19.1
+transformers==4.41.1
+sentence_transformers==2.7.0
+faiss-gpu
+cugraph-cu12
