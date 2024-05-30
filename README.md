@@ -28,7 +28,7 @@ pip install dvc[gdrive]
 Далее просто введите
 
 ```bash
-dvc pull
+dvc fetch
 ```
 ## Форма для отправки
 
